@@ -21,3 +21,4 @@
 /Users/CodyCalhoun/Desktop/Coding Dojo/Dojo_assignments/C#/asp/DojoSurvey/obj/Debug/netcoreapp2.2/DojoSurvey.dll
 /Users/CodyCalhoun/Desktop/Coding Dojo/Dojo_assignments/C#/asp/DojoSurvey/obj/Debug/netcoreapp2.2/DojoSurvey.pdb
 /Users/CodyCalhoun/Desktop/Coding Dojo/Dojo_assignments/C#/asp/DojoSurvey/obj/Debug/netcoreapp2.2/DojoSurvey.csproj.CopyComplete
+/Users/CodyCalhoun/Desktop/Coding Dojo/Dojo_assignments/C#/asp/DojoSurvey/obj/Debug/netcoreapp2.2/Razor/Views/Home/FormSubmit.g.cshtml.cs
